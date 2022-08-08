@@ -1,0 +1,36 @@
+{
+    "Family": {
+        "Elavarasu": {
+            "first_name": "Elavarasu",
+            "last_name": "Appusamy",
+            "address": "11A",
+            "city": "Salem",
+            "state": "Tamil Nadu",
+            "pin": "654321",
+            "phone": "9087654321",
+            "email": "abc@gmail.com"
+        },
+        "Sudha": {
+            "first_name": "Sudha",
+            "last_name": "Shanmugam",
+            "address": "12B",
+            "city": "Namakkal",
+            "state": "Tamil Nadu",
+            "pin": "645321",
+            "phone": "9876543210",
+            "email": "xyz@gmail.com"
+        }
+    },
+    "Friend": {
+        "Nantha": {
+            "first_name": "Nantha",
+            "last_name": "Gopal",
+            "address": "15D",
+            "city": "Coimbatore",
+            "state": "Tamil Nadu",
+            "pin": "654312",
+            "phone": "8907654321",
+            "email": "efg@gmail.com"
+        }
+    }
+}
